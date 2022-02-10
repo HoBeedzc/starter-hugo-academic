@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -25,7 +25,7 @@ experience:
   - title: Backend Development Engineer Intern
     company: ByteDance
     company_url: 'https://www.bytedance.com/'
-    company_logo: org-gc
+    company_logo: bytedance
     location: Beijing, China
     date_start: '2021-10-09'
     date_end: '2022-03-04'
@@ -39,7 +39,7 @@ experience:
   - title: Data Development Engineer Intern
     company: Meituan
     company_url: 'https://about.meituan.com/home'
-    company_logo: org-gc
+    company_logo: meituan
     location: Beijing, China
     date_start: '2021-07-01'
     date_end: '2021-09-16'
@@ -49,15 +49,6 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
