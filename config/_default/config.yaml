@@ -5,7 +5,7 @@
 
 title: LZQ Homepage # Website name
 baseurl: 'https://lzq.netlify.app/' # Website URL
-copyright: '© 2021 Zequn Liu. All rights reserved.' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Zequn Liu (Hobee). All rights reserved.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
