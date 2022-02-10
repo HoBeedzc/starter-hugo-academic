@@ -39,7 +39,7 @@ experience:
   - title: Data Development Engineer Intern
     company: Meituan
     company_url: 'https://about.meituan.com/home'
-    company_logo: meituan.png
+    company_logo: org-gc
     location: Beijing, China
     date_start: '2021-07-01'
     date_end: '2021-09-16'
