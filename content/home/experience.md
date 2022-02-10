@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
+  - title: Backend Development Engineer Intern
     company: ByteDance
     company_url: 'https://www.bytedance.com/'
-    company_logo: org-gc
-    location: Beijing
+    company_logo: bytedance
+    location: Beijing, China
     date_start: '2021-10-09'
     date_end: '2022-03-04'
     description: |2-
@@ -35,27 +35,14 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-  
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+
+  - title: Data Development Engineer Intern
+    company: Meituan
+    company_url: 'https://about.meituan.com/home'
+    company_logo: meituan
+    location: Beijing, China
+    date_start: '2021-07-01'
+    date_end: '2021-09-16'
     description: |2-
         Responsibilities include:
         
