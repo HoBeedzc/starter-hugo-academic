@@ -25,7 +25,7 @@ experience:
   - title: Backend Development Engineer Intern
     company: ByteDance
     company_url: 'https://www.bytedance.com/'
-    company_logo: bytedance
+    company_logo: org-gc
     location: Beijing, China
     date_start: '2021-10-09'
     date_end: '2022-03-04'
@@ -39,7 +39,7 @@ experience:
   - title: Data Development Engineer Intern
     company: Meituan
     company_url: 'https://about.meituan.com/home'
-    company_logo: meituan
+    company_logo: meituan.png
     location: Beijing, China
     date_start: '2021-07-01'
     date_end: '2021-09-16'
