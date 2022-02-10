@@ -23,6 +23,33 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
+    company: ByteDance
+    company_url: 'https://www.bytedance.com/'
+    company_logo: org-gc
+    location: Beijing
+    date_start: '2021-10-09'
+    date_end: '2022-03-04'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+  
+  - title: CEO
     company: GenCoin
     company_url: ''
     company_logo: org-gc
