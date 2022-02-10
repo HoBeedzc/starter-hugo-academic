@@ -21,9 +21,13 @@ feature:
   icon_pack: fab
   name: Python
 - description: 90%
-  icon: golang
+  icon: google
   icon_pack: fab
   name: Go
+- description: 90%
+  icon: java
+  icon_pack: fab
+  name: Java
 - description: 100%
   icon: chart-line
   icon_pack: fas

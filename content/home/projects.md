@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Python
+    tag: Python
+  - name: Golang
+    tag: Golang
+  - name: Java
+    tag: Java
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
