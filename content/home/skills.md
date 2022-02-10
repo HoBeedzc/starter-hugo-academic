@@ -17,9 +17,13 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: python
   icon_pack: fab
-  name: R
+  name: Python
+- description: 90%
+  icon: golang
+  icon_pack: fab
+  name: Go
 - description: 100%
   icon: chart-line
   icon_pack: fas
