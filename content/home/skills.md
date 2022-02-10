@@ -32,10 +32,14 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: 50%
+  icon: chart-network
   icon_pack: fas
-  name: Photography
+  name: Deep Learning
+- description: 100%
+  icon: code
+  icon_pack: fas
+  name: Software Development
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
