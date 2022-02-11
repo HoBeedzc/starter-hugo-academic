@@ -73,6 +73,8 @@ email: "LZQpublic@163.com"
 highlight_name: true
 ---
 
-Zequn Liu is an undergraduate student in School of economics and management of Beihang University, majoring in information system and information management. He will pursue postgraduate degree in Beihang University, where he will be supervised by [**Jichang Zhao**](http://zhaojichang.cn/).
+Zequn Liu is an undergraduate student in [School of Economics and Management](http://sem.buaa.edu.cn/) of [Beihang University](http://www.buaa.edu.cn/), majoring in information system and information management. He will pursue postgraduate degree in Beihang University, where he will be supervised by [Jichang Zhao](http://zhaojichang.cn/).
+
+He has attended iSCMlab since he was a junior and have actively participated in a research project, which is the Store Category Selection, where he is the main database administer and algorithm researcher.In 2021 summer, he interned in [Meituan](https://about.meituan.com/home) and worked as a data development engineer in the cycling business group. His main work is to improve the construction of the data warehouse and provide data services upstream.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.  Here for {{< staticref "uploads/demo_resume.pdf" "newtab" >}}chinese version{{< /staticref >}}.
