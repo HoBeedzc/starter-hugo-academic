@@ -14,13 +14,13 @@ organizations:
   url: https://www.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Zequn Liu is an undergraduate student in School of economics and management of Beihang University, majoring in information system and information management.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Marketing
+- Software Development
 
 # Education to show in About widget
 education:
@@ -73,8 +73,6 @@ email: "LZQpublic@163.com"
 highlight_name: true
 ---
 
-Zequn Liu is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zequn Liu is an undergraduate student in School of economics and management of Beihang University, majoring in information system and information management. He will pursue postgraduate degree in Beihang University, where he will be supervised by {{<a href="http://zhaojichang.cn/">}} Jichang Zhao {{ </a> }}.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}  Here for {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Chinese version{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.  Here for {{< staticref "uploads/demo_resume.pdf" "newtab" >}}chinese version{{< /staticref >}}.
