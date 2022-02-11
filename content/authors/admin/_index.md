@@ -73,6 +73,6 @@ email: "LZQpublic@163.com"
 highlight_name: true
 ---
 
-Zequn Liu is an undergraduate student in School of economics and management of Beihang University, majoring in information system and information management. He will pursue postgraduate degree in Beihang University, where he will be supervised by {{<a href="http://zhaojichang.cn/">}} Jichang Zhao {{ </a> }}.
+Zequn Liu is an undergraduate student in School of economics and management of Beihang University, majoring in information system and information management. He will pursue postgraduate degree in Beihang University, where he will be supervised by [**Jichang Zhao**](http://zhaojichang.cn/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.  Here for {{< staticref "uploads/demo_resume.pdf" "newtab" >}}chinese version{{< /staticref >}}.
