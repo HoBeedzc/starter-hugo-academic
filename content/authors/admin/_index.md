@@ -19,21 +19,18 @@ bio: Zequn Liu is an undergraduate student in School of economics and management
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Marketing
+- Marketing and Promotion
 - Software Development
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Graduate in Management Science and Engineering （incoming）
+    institution: Beihang University
+    year: 2024
+  - course: Bachelor in Information Management and Information Systems
+    institution: Beihang University
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

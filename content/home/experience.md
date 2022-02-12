@@ -55,7 +55,6 @@ experience:
         * Data development for the Meituan bicycle data warehouse. Operate offline data to better serve the upstream.
         * Build, improve and maintain data warehouse. Rectify non-standard field names and table names, optimize zoning and storage structure, and improve data production and calculation efficiency.
         * Prepare data for data analysis, big data calculation and data kanban. For example, provide data such as card opening rate, number of rides, card opening income, etc. for the financial budget.
-        * 
 
         Achievements:
 
