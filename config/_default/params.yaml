@@ -36,24 +36,23 @@ directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+appointment_url: 'https://calendly.com/hobee'
 contact_links:
-  - icon: twitter
+  - icon: kaggle
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    link: https://www.kaggle.com/dzchobee
+  - icon: zhihu
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    link: https://www.zhihu.com/people/hobeedzc
+  - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: https://github.com/Hobeedzc
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zequn-liu-0a1a441a6/
 
 # Site header
 
@@ -61,7 +60,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
