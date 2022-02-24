@@ -74,4 +74,4 @@ Zequn Liu is an undergraduate student in [School of Economics and Management](ht
 
 He has attended iSCMlab since he was a junior and have actively participated in a research project, which is the Store Category Selection, where he is the main database administer and algorithm researcher.In 2021 summer, he interned in [Meituan](https://about.meituan.com/home) and worked as a data development engineer in the cycling business group. His main work is to improve the construction of the data warehouse and provide data services upstream.
 
-{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.  Here for {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Chinese version{{< /staticref >}}. Last updated on Feburary, 2022.
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.  Here for {{< staticref "uploads/CV-CN.pdf" "newtab" >}}Chinese version{{< /staticref >}}. Last updated on Feburary, 2022.
