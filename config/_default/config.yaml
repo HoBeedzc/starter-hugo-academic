@@ -13,7 +13,7 @@ copyright: '© 2021 Zequn Liu (Hobee). All rights reserved.' # Footer text, e.g.
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
