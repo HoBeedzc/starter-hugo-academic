@@ -23,7 +23,7 @@ feature:
 - description: 90%
   icon: google
   icon_pack: fab
-  name: Go
+  name: Golang
 - description: 90%
   icon: java
   icon_pack: fab

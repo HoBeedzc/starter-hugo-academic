@@ -1,8 +1,8 @@
 ---
-title: Spatula
-summary: A simple, fast, and useful web app.
+title: CreditCount
+summary: CreditCount.
 tags:
-- Python
+- JavaScript
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
