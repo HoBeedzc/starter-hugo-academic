@@ -22,8 +22,8 @@ links:
   icon_pack: fab
   name: Source Code
   url: https://github.com/HoBeedzc/CreditCount
-- icon: book
-  icon_pack: fab
+- icon: flask
+  icon_pack: fas
   name: Try it out!
   url: https://cc.hobeedzc.cn/
 url_code: ""
