@@ -3,13 +3,14 @@ title: CreditCount
 summary: CreditCount.
 tags:
 - JavaScript
+- FrontEnd
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Screenshot from CreditCount.
   focal_point: Smart
 
 links:
@@ -21,11 +22,11 @@ links:
   icon_pack: fab
   name: Source Code
   url: https://github.com/HoBeedzc/CreditCount
-- icon: flask
+- icon: magic
   icon_pack: fab
   name: Try it out!
   url: https://cc.hobeedzc.cn/
-url_code: ""
+url_code: "https://github.com/HoBeedzc/CreditCount"
 url_pdf: ""
 url_slides: ""
 url_video: ""
