@@ -22,11 +22,11 @@ links:
   icon_pack: fab
   name: Source Code
   url: https://github.com/HoBeedzc/CreditCount
-- icon: magic
+- icon: book
   icon_pack: fab
   name: Try it out!
   url: https://cc.hobeedzc.cn/
-url_code: "https://github.com/HoBeedzc/CreditCount"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
