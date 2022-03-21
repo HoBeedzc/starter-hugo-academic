@@ -17,6 +17,14 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
+- icon: github
+  icon_pack: fab
+  name: Source Code
+  url: https://github.com/HoBeedzc/CreditCount
+- icon: flask
+  icon_pack: fab
+  name: Try it out!
+  url: https://cc.hobeedzc.cn/
 url_code: ""
 url_pdf: ""
 url_slides: ""
