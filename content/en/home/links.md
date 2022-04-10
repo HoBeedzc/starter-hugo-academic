@@ -21,6 +21,7 @@ design:
 
 Here are some other websites about me 🥬
 
+* [My Leetcode Dashboard](https://leetcode-cn.com/u/hobee/)
 * [Notion Public Overview](https://hobee.notion.site/Overview-For-Public-7aec659fe3564dbba5ad6af62ea30f7f)
 * [My Blog](https://blog.hobeedzc.cn/)
 * [Hobee's Homepage](https://www.hobeedzc.cn/)
