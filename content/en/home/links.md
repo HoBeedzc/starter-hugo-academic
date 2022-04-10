@@ -21,14 +21,18 @@ design:
 
 Here are some other websites about me 🥬
 
-* xian chong [LittleNyima](https://littlenyima.github.io/)
+* [Notion Public Overview](https://hobee.notion.site/Overview-For-Public-7aec659fe3564dbba5ad6af62ea30f7f)
+* [My Blog](https://blog.hobeedzc.cn/)
+* [Hobee's Homepage](https://www.hobeedzc.cn/)
 
 ---
 
 Here are some of my friends 👬🏻
 
-* xian chong [LittleNyima](https://littlenyima.github.io/)
-* another Bayern fan [Jim Zhang](https://jimzhang.me/)
+* [LittleNyima](https://littlenyima.github.io/)
+* [Jim Zhang](https://jimzhang.me/)
+* [KK](https://wzk.plus/)
+* [Marvolo](http://marvolo.top/)
 
 >  tell me your personal website if you are a friend of me and you have one!
 

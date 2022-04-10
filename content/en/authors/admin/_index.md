@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:lzqpublic@163.com'
 - icon: kaggle
   icon_pack: fab
   link: https://www.kaggle.com/dzchobee
