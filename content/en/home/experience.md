@@ -22,16 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Backend Development Engineer Intern
+  - title: Backend Development Engineer Intern - Overseas Education
     company: Bytedance
-    company: ByteDance
     company_url: 'https://www.bytedance.com/'
     company_logo: bytedance
     location: Beijing, China
     date_start: '2022-05-06'
     date_end: '2022-09-30'
+    description: |2-
+        Responsibilities:
 
-  - title: Backend Development Engineer Intern
+        * Comming up
+
+        Achievements:
+
+        * Comming up
+
+  - title: Backend Development Engineer Intern - Internationalized E-commerce
     company: ByteDance
     company_url: 'https://www.bytedance.com/'
     company_logo: bytedance
@@ -51,7 +58,7 @@ experience:
         * Access to the Download Center to provide data export capability for operation backend.
         * Access to the Data Management Platform to provide the operation backend with the ability of activity marking and commodity selection.
 
-  - title: Data Development Engineer Intern
+  - title: Data Development Engineer Intern - Meituan Bicycle
     company: Meituan
     company_url: 'https://about.meituan.com/home'
     company_logo: meituan
