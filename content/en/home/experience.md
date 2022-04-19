@@ -23,12 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Backend Development Engineer Intern
+    company: Bytedance
+    company: ByteDance
+    company_url: 'https://www.bytedance.com/'
+    company_logo: bytedance
+    location: Beijing, China
+    date_start: '2022-05-06'
+    date_end: '2022-09-30'
+
+  - title: Backend Development Engineer Intern
     company: ByteDance
     company_url: 'https://www.bytedance.com/'
     company_logo: bytedance
     location: Beijing, China
     date_start: '2021-10-09'
-    date_end: '2022-03-04'
+    date_end: '2022-02-28'
     description: |2-
         Responsibilities:
 
