@@ -22,9 +22,12 @@ main:
   - name: Publications
     url: '#publications'
     weight: 60
+  - name: Posts
+    url: '#posts'
+    weight: 70
   - name: Links
     url: '#links'
-    weight: 70
+    weight: 80
   - name: CV
     url: uploads/resume.pdf
     weight: 80

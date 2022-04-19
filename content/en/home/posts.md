@@ -7,16 +7,16 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 70
 
-title: Recent Publications
-subtitle: ''
+title: Recent Posts
+subtitle:
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - post
     tag: ''
     category: ''
     publication_type: ''
@@ -25,17 +25,14 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 5
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+
 design:
   # Choose a view for the listings:
-  view: citation
+  view: compact
   columns: '2'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
