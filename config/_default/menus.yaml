@@ -7,9 +7,6 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Blog
-    url: 'https://blog.hobeedzc.cn/'
-    weight: 20
   - name: Skill
     url: '#skills'
     weight: 30
@@ -28,9 +25,12 @@ main:
   - name: Links
     url: '#links'
     weight: 80
+  - name: Blog
+    url: 'https://blog.hobeedzc.cn/'
+    weight: 90
   - name: CV
     url: uploads/resume.pdf
-    weight: 80
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
